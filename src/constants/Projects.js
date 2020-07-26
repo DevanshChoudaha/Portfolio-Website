@@ -12,31 +12,7 @@ export const projects = {
             link: "http://madhavbahl.tech/react-pokedex/"
         }, {
             name: "Heart Disease Prediction using Machine Learning",
-            description: "ML :- ",
-            link: "http://madhavbahl.tech/react-pokedex/"
-        }, {
-            name: "Project 4",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            link: "http://madhavbahl.tech/react-pokedex/"
-        }, {
-            name: "Project 5",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            link: "http://madhavbahl.tech/react-pokedex/"
-        }, {
-            name: "Project 6",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            link: "http://madhavbahl.tech/react-pokedex/"
-        }, {
-            name: "Project 7",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            link: "http://madhavbahl.tech/react-pokedex/"
-        }, {
-            name: "Project 8",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            link: "http://madhavbahl.tech/react-pokedex/"
-        }, {
-            name: "Project 9",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            description: "ML algorithms:- ANN, Logistics Regression, Decision Tree, SVM, Naive Bayes\n  API:- Flask  Frontend:- Android app, Website",
             link: "http://madhavbahl.tech/react-pokedex/"
         }
     ]
