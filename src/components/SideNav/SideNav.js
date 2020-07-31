@@ -2,12 +2,13 @@ import React from 'react';
 import {SocialMediaIconsReact} from 'social-media-icons-react';
 
 import './sidenav.css';
+import './Devansh3.jpg';
 
 export const SideNav = ({ handleSectionClick }) => {
     return (
         <div className="sidenav">
             <img
-                src="./Devansh3.jpg"
+                src="Devansh3.jpg"
                 className="avatar"
                 alt="avatar" />
 
